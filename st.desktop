@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Simple Terminal
+GenericName=Terminal
+Comment=Suckless terminal emulator for X
+Exec=st -t "Simple Terminal"
+Icon=utilities-terminal
+Terminal=false
+Type=Application
