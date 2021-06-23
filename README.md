@@ -1,7 +1,7 @@
 # ST
 Own build of Suckless Simple Terminal
 
-Nord Theme
+Nord Theme via xRessources
 
 # Patches:
 
@@ -15,6 +15,7 @@ Nord Theme
 - Bold-Is-Not-Bright
 - Anysize
 - Alpha
+- xRessources
 
 Version: 0.8.4
 
